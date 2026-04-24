@@ -31,7 +31,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Icon(Icons.book, size: 80, color: Colors.white),
             SizedBox(height: 24),
             Text(
-              'Quiz de Sociologia',
+              'Quiz de Português',
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
