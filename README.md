@@ -75,15 +75,11 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-Adicione aqui imagens do aplicativo:
-
-```md
+## 📸 Telas
 ![Home](assets/home.png)
 ![Quiz](assets/perguntas.png)
 ![Resultado](assets/respostas.png)
-```
+
 
 ---
 
