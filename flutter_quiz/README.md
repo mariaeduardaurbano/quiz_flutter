@@ -80,9 +80,9 @@ flutter run
 Adicione aqui imagens do aplicativo:
 
 ```md
-![Home](caminho/para/imagem_home.png)
-![Quiz](caminho/para/imagem_quiz.png)
-![Resultado](caminho/para/imagem_resultado.png)
+![Home](assets/home.png)
+![Quiz](assets/perguntas.png)
+![Resultado](assets/respostas.png)
 ```
 
 ---
